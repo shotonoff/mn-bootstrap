@@ -59,7 +59,7 @@ const baseConfig = {
       },
       api: {
         docker: {
-          image: 'dashpay/dapi:0.17',
+          image: 'dashpay/dapi:0.17.1',
         },
       },
       insight: {
