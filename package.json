@@ -48,6 +48,7 @@
   },
   "homepage": "https://github.com/dashevo/mn-bootstrap#readme",
   "dependencies": {
+    "@oclif/dev-cli": "^1.22.2",
     "@dashevo/dashcore-lib": "~0.19.21",
     "@dashevo/dashd-rpc": "~2.1.1",
     "@dashevo/dashpay-contract": "github:dashevo/dashpay-contract#bc4e9b2d0073e27bd716b3ae63ccfdd60d8c4f36",
@@ -86,7 +87,6 @@
     "table": "^5.4.6"
   },
   "devDependencies": {
-    "@oclif/dev-cli": "^1.22.2",
     "eslint": "^5.16.0",
     "eslint-config-airbnb-base": "^14.1.0",
     "eslint-plugin-import": "^2.20.2",
